@@ -1,5 +1,3 @@
 numpy==1.24.2
 Pillow
 flask
-scikit-build
-opencv-python-headless==3.4.18.65

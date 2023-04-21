@@ -1,4 +1,5 @@
 # ocr_api_server
+# **适用arm32位机器，如armv7，arm7l**
 使用ddddocr的最简api搭建项目，支持docker
 
 **建议python版本3.7-3.9 64位**
